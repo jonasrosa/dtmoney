@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "miragejs": "^0.1.43",
+    "react-modal": "^3.14.4"
+  },
+  "devDependencies": {
+    "@types/react-modal": "^3.13.1"
+  }
+}
